@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Home from "./pages/Home";
+import Home from "./Home";
 import MinimalistTemplate from "./templates/Minimalist";
 import RusticTemplate from "./templates/Rustic";
 import ElegantTemplate from "./templates/Elegant";
